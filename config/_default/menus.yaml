@@ -1,0 +1,49 @@
+leftnav:
+- identifier: 442b2ffc-ba59-4cc0-a2fd-26320d897a5f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b61c8725-1ec9-41fc-83fa-b2fb6af60536
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 2bbb7ff0-fd8f-4488-a79f-28d3a28113c1
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: a83fe0c5-0a74-40c9-bde1-4286487cf6fc
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 7ed12878-bd83-45eb-924d-16e22b006d3e
+  name: In-Class Questions
+  pageRef: /lists/in-class-questions
+  weight: 50
+- identifier: 24bbac25-c6d4-4ccf-930a-23bf6418526e
+  name: Lecture Slides
+  pageRef: /lists/lecture-slides
+  weight: 60
+- identifier: 71bd825a-ac7b-407c-a1cc-f92e34a9b270
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
+- identifier: 48c17ba6-d8fb-4330-8ea3-a7a0bcd9b3c2
+  name: First Essay
+  pageRef: /pages/first-essay
+  parent: 71bd825a-ac7b-407c-a1cc-f92e34a9b270
+  weight: 10
+- identifier: 4e6bde85-4440-4994-b129-95f628c77ca5
+  name: In-Class Debate
+  pageRef: /pages/in-class-debate
+  parent: 71bd825a-ac7b-407c-a1cc-f92e34a9b270
+  weight: 20
+- identifier: b3ea8e43-26f9-4c58-82a4-47deb707b7e2
+  name: Second Essay
+  pageRef: /pages/second-essay
+  parent: 71bd825a-ac7b-407c-a1cc-f92e34a9b270
+  weight: 30
+- identifier: 84eed2d9-c3e5-4c81-96a4-fa0495d18262
+  name: Final Essay
+  pageRef: /pages/final-essay
+  parent: 71bd825a-ac7b-407c-a1cc-f92e34a9b270
+  weight: 40
