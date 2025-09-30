@@ -21,7 +21,7 @@ Note: You are not expected to take any particular positions on the topics we wil
 
 ### Subject Requirements
 
-This class qualifies as a {{% resource_link "187f60cb-e8ff-467c-9537-5df3d5108052" "CI-M" %}} (communication intensive in the major) subject.
+This class qualifies as a [CI-M](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects) (communication intensive in the major) subject.
 
 ### Grading Policy
 
@@ -63,8 +63,8 @@ We will post on the class website some questions about the reading a few days be
 
 ### MIT Writing and Communication Center (WCC)
 
-The {{% resource_link "14b580b3-75e1-4e6b-8008-ffb77d2b1d85" "WCC" %}} offers free one-on-one professional advice from communication specialists with advanced degrees and publishing experience. The WCC can help you learn about all types of academic and professional writing and further develop your oral communication skills. 
+The [WCC](https://cmsw.mit.edu/writing-and-communication-center/) offers free one-on-one professional advice from communication specialists with advanced degrees and publishing experience. The WCC can help you learn about all types of academic and professional writing and further develop your oral communication skills. 
 
 ### Policy on Generative AI
 
-We expect that all work students submit for this course will be their own. The use of {{% resource_link "ee9e968f-cb95-4ff9-862c-5cf1af9f6e9d" "ChatGPT" %}} or any other generative artificial intelligence (AI) tools at any stages of the work process, including preliminary ones, is forbidden. Violations of this policy will be considered academic misconduct. Please note that different classes at MIT may implement different AI policies, and it is your responsibility to conform to the expectations for each course.
+We expect that all work students submit for this course will be their own. The use of [ChatGPT](https://chat.openai.com/) or any other generative artificial intelligence (AI) tools at any stages of the work process, including preliminary ones, is forbidden. Violations of this policy will be considered academic misconduct. Please note that different classes at MIT may implement different AI policies, and it is your responsibility to conform to the expectations for each course.

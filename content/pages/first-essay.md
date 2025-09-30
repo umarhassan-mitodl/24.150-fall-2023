@@ -22,7 +22,7 @@ Your paper will be rewritten in response to comments. In reading it, we will be 
 - Are good reasons given for the paper’s claims? 
 - Does the paper show evidence that the student has thought through the topic?
 
-As you know, all your writing must be your own; please refresh your memory of class policies by consulting the syllabus. MIT’s policies about academic integrity may be found here: {{% resource_link "b30c2c78-77f2-4747-bb1a-a16a7cecf23c" "Academic Integrity: A Handbook for Students" %}}.
+As you know, all your writing must be your own; please refresh your memory of class policies by consulting the syllabus. MIT’s policies about academic integrity may be found here: [Academic Integrity: A Handbook for Students](https://integrity.mit.edu/).
 
 This essay is due during session 8 and will count for 15% of the course grade. 
 

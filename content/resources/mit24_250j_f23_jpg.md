@@ -10,8 +10,7 @@ image_metadata:
     (University of Pennsylvania), and Sally Kornbluth (M.I.T.), along with historian
     Pamela Nadell, testified at a congressional hearing about antisemitism on college
     campuses. (Image by the United States House Committee on Education and the Workforce.
-    This image is in the public domain. Source: {{% resource_link "4fa11075-e651-4d3e-a06a-bf1773fdf41d"
-    "Wikimedia Commons" %}}.)'
+    This image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2023CongressHearingAntisemitism.png).)'
   credit: ''
   image-alt: With rows of spectators behind them, four women with serious expressions
     on their faces sit behind microphones.
