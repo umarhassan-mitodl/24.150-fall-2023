@@ -24,7 +24,7 @@
     "website": "liberalism-toleration-and-freedom-of-speech"
   },
   "course_title": "Liberalism, Toleration, and Freedom of Speech",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "This course examines\u00a0theories and principles that\u00a0underlie the concept of free speech\u00a0in the United States, the historical context in which the values of free speech and toleration emerged,\u00a0and the\u00a0philosophical arguments\u00a0that were and are\u00a0made for and against them. Students analyze a\u00a0variety of\u00a0contexts and communicative practices, including\u00a0new media technologies,\u00a0to\u00a0debate how \"speech\" can be described and when it should be appropriately regulated.\u00a0The course also considers current disputes over free speech on\u00a0college campuses.",
   "department_numbers": [
@@ -38,7 +38,6 @@
     "content": "",
     "website": "liberalism-toleration-and-freedom-of-speech"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Readings",
     "Lecture Notes",

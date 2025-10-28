@@ -30,6 +30,6 @@ In reading your paper, we will be asking these questions: 
 - Are good reasons given for the paper’s claims? 
 - Does the paper show evidence that the student has thought through the topic?
 
-As you know, all your writing must be your own; please refresh your memory of class policies by consulting the syllabus. MIT’s policies about academic integrity may be found here: [Academic Integrity: A Handbook for Students](https://integrity.mit.edu/).
+As you know, all your writing must be your own; please refresh your memory of class policies by consulting the syllabus. MIT’s policies about academic integrity may be found here: {{% resource_link "adad43cd-108c-4e02-9bcf-9c16d6a09708" "Academic Integrity: A Handbook for Students" %}}.
 
 This essay is due during session 21 and will count for 20% of the course grade.
