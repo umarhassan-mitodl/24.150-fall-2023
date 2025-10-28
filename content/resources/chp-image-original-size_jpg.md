@@ -5,8 +5,6 @@ draft: false
 file: /courses/24-150j-liberalism-toleration-and-freedom-of-speech-fall-2023/chp-image-original-size.jpg
 file_size: 216221
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
