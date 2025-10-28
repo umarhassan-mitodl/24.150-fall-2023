@@ -5,8 +5,6 @@ draft: false
 file: /courses/24-150j-liberalism-toleration-and-freedom-of-speech-fall-2023/mit24_150j_f23_lec14.pdf
 file_size: 1026485
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
